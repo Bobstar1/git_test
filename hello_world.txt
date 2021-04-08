@@ -2,3 +2,4 @@ hello world!!!!
 Hello world indeed!!!
 Hello world!!!!!
 4th lines the charm.
+5th line to double check i know how to exit the default commit message thing.
